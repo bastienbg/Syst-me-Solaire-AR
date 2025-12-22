@@ -20,3 +20,9 @@ Recordings/
 # Unity cache
 *.tmp
 *.bak
+
+.vs/
+
+# Vuforia package tarball (ne pas committer)
+Packages/*.tgz
+
