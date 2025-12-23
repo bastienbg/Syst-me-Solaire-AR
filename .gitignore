@@ -26,3 +26,6 @@ Recordings/
 # Vuforia package tarball (ne pas committer)
 Packages/*.tgz
 
+.vsconfig
+
+
